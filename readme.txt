@@ -51,9 +51,9 @@ e.g.
  
 == Screenshots ==
  
-1. `/screenshot/gtb_addproduct.png`
-2. `/screenshot/gtb_shortcode.png`
-3. `/screenshot/gtb_frontend.png`
+1. `public/screenshot/gtb_addproduct.png`
+2. `public/screenshot/gtb_shortcode.png`
+3. `public/screenshot/gtb_frontend.png`
  
 == Changelog ==
  
