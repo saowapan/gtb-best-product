@@ -1,0 +1,10 @@
+.selected_image, .true_pre_image {
+    max-width:200px;
+    display:block;
+}
+#wp-post_note-media-buttons {
+    display:none;
+}
+.gtb_bp_box label {
+    font-weight: 600;
+}
